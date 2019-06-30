@@ -1,0 +1,10 @@
+C:\Users\robin\source\repos\GTA V Mod1\bin\Debug\fixwalk.dll
+C:\Users\robin\source\repos\GTA V Mod1\bin\Debug\fixwalk.pdb
+C:\Users\robin\source\repos\GTA V Mod1\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\robin\source\repos\GTA V Mod1\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\robin\source\repos\GTA V Mod1\obj\Debug\fixwalk.csprojAssemblyReference.cache
+C:\Users\robin\source\repos\GTA V Mod1\obj\Debug\fixwalk.csproj.CoreCompileInputs.cache
+C:\Users\robin\source\repos\GTA V Mod1\obj\Debug\fixwalk.csproj.CopyComplete
+C:\Users\robin\source\repos\GTA V Mod1\obj\Debug\fixwalk.dll
+C:\Users\robin\source\repos\GTA V Mod1\obj\Debug\fixwalk.pdb
+C:\Users\robin\source\repos\GTA V Mod1\bin\Debug\NativeUI.dll
